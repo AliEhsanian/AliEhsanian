@@ -8,7 +8,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.eurecom.fr/en/people/ehsanian-ali)](https://www.eurecom.fr/en/people/ehsanian-ali)
 [![Github](https://img.shields.io/github/followers/aliehsanian?label=Follow&style=social)](https://github.com/aliehsanian)
 
-- 👋 Hi there! I'm a AI/ML enginner who loves turning raw data into insights. Fascinated by Machine Learning, I'm always exploring how to leverage data to build predictive models and create intelligent systems.
+- 👋 Hi there! I'm an AI/ML Engineer who loves turning raw data into insights. Fascinated by Machine Learning, I'm always exploring how to leverage data to build predictive models and create intelligent systems.
 
 
 ### 🖥 Skills
